@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    padding-top: 2.5rem;
+}
+
+.calculator-text {
+    color: #FFF;
+}
+
+.btn1 {
+    margin-top: -0.6rem;
+}
